@@ -1,0 +1,8 @@
+ipykernel
+tenserflow
+numpy
+matplotlib
+pandas
+sickit-learn
+IPython
+lime
